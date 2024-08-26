@@ -1,0 +1,1 @@
+This Amazon Clone is a front-end project developed using HTML and CSS as a module 1 assignment of SMIT. It replicates the design and layout of Amazon's homepage, showcasing a product display and navigation similar to the original site.
